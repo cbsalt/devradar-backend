@@ -8,4 +8,4 @@ _This project was developed with the following technologies:_
 
 * [Node](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
-* [MongoDB] (https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/)
